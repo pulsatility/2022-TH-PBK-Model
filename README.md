@@ -10,3 +10,6 @@
 (B) Purpose of files for spatial model:
 - TH_PBK_Spatial_CMD.m: Main MATLAB code to generate steady-state results.
 - TH_PBK_Spatial_ODE.m: MATLAB ODE code to be called by TH_PBK_Spatial_CMD.m.
+- TH_PBK_Spatial_CMD_gradient.m: MATLAB code to generate steady-state results for parameters with gradients.
+- TH_PBK_Spatial_ODE.m: MATLAB ODE code to be called by TH_PBK_Spatial_CMD_gradient.m.
+- TH_PBK_Spatial_code_for_Fig_S1.m: MATLAB code to generate Fig. S1.
