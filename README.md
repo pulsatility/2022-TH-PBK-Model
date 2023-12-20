@@ -7,7 +7,7 @@
 - TH_PBK_Nonspatial_ODE_clamped.m: MATLAB ODE code to be called by TH_PBK_Nonspatial_CMD.m for sensitivity analysis.
 - TH_PBK_Nonspatial_ODE_tracer.m: MATLAB ODE code to be called by TH_PBK_Nonspatial_CMD_tracer.m for TH tracer simulations.
 
-(B) Purpose of files for spatial model:
+(B) Purpose of files for spatial model (to be uploaded):
 - TH_PBK_Spatial_CMD.m: Main MATLAB code to generate steady-state results.
 - TH_PBK_Spatial_ODE.m: MATLAB ODE code to be called by TH_PBK_Spatial_CMD.m.
 - TH_PBK_Spatial_CMD_gradient.m: MATLAB code to generate steady-state results for parameters with gradients.
